@@ -1,0 +1,36 @@
+.main__ft{
+    position:fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+    
+  
+}
+ p{
+    font-family: 'Shadows Into Light', cursive;
+    font-size:30px;
+    color:#10eb4b;
+    letter-spacing: 4px;
+    margin:20px;
+    cursor: pointer;
+    display: inline;
+}
+.cpy{
+    font-size: 14px;
+    color:black;
+   margin-left: 400px;
+}
+.sc{
+    margin-left: 200px;
+    color: black;
+    padding:10px;
+}
+.as{
+    color:black;
+    
+}
+.as:hover{
+  
+    color: #10eb4b;
+
+}

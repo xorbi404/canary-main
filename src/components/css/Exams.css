@@ -1,0 +1,19 @@
+.fl__cont1{
+    display:flex;
+    flex-wrap: wrap;
+    margin-left:50px;
+    cursor: pointer;
+}
+.fl__cont1 > div{
+    background-color: #f1f1f1;
+    width: 400px;
+    margin: 10px;
+    text-align: center;
+    line-height: 250px;
+    font-size: 30px;
+    border-radius: 6px;
+}
+#frm{
+    font-size: 18px;
+    
+}

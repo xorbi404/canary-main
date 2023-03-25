@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+.mn__cont{
+    text-align: center;
+    
+}
+.fl{
+    display: flex;
+    flex-direction: column;
+    
+}

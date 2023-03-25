@@ -1,0 +1,68 @@
+.cont__card{
+    position: absolute;
+    width: 50%;
+    line-height:40%;
+
+    margin-top: 40px;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgba(60,64,67,.3), 0 2px 6px 2px rgba(60,64,67,.15);
+    ;
+    
+   
+}
+.innr{
+    
+    width:40%;
+    height:100%;
+    background: #0c6cf2;
+    text-align: center;
+}
+.prof__img{
+    padding-top:50px;
+    padding-bottom: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border:2px solid red;
+    margin-top:50px;    
+    border-radius: 5px;
+    
+}
+.name__ct{
+    position: absolute;
+    left:17%;
+    top:60%;
+    font-family:'Roboto Mono', monospace;
+    font-size: 15px;
+    margin-top: 50px;
+    color:white
+}
+#hdr{
+  
+    font-family:'Roboto Mono', monospace;
+    font-size: 22px;
+    position: absolute;
+    top:1%;
+    left:55%;
+    color:black;
+    text-decoration: underline;
+    
+}
+p{
+    cursor: auto;
+}
+#hhd{
+    position: absolute;
+    font-size:15px;
+    font-family:'Roboto Mono', monospace;
+    left:47%;
+    top:20%;
+    color:black;
+}
+#hrs{
+    position: absolute;
+    font-size:15px;
+    font-family:'Roboto Mono', monospace;
+    left:47%;
+    top:40%;
+    color:black;
+}
